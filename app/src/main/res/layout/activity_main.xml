@@ -16,7 +16,7 @@
         android:layout_marginTop="12dp"
         android:contentDescription="@string/profileImg"
         android:elevation="1dp"
-        app:layout_constraintEnd_toStartOf="@+id/button"
+        app:layout_constraintEnd_toStartOf="@+id/btnImg"
         app:layout_constraintHorizontal_bias="0.247"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -26,7 +26,7 @@
 
     <!--    action button-->
     <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/button"
+        android:id="@+id/btnImg"
         style="@style/Widget.Material3.ExtendedFloatingActionButton.Icon.Tertiary"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
