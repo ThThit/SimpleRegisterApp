@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>Select Country</item> <!-- Default item -->
+        <item>United States</item>
+        <item>United Kingdom</item>
+        <item>Canada</item>
+        <item>Australia</item>
+        <item>Germany</item>
+        <item>Japan</item>
+        <item>France</item>
+        <item>Brazil</item>
+        <item>Italy</item>
+        <item>India</item>
+        <item>South Korea</item>
+    </string-array>
+</resources>

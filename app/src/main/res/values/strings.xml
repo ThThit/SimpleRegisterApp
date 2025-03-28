@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="nameHint">Name</string>
+    <string name="password_hint">Password</string>
+    <string name="emailHint">Email</string>
+    <string name="terms">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+        industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scramble</string>
+    <string name="termsAgreed">I agree to the terms</string>
+</resources>
